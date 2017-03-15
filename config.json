@@ -1,0 +1,14 @@
+{
+  "button": {
+    "id": " " // MAC address of your Dash Button
+  },
+  "twilio": {
+    "sid": " ", // Twilio sid
+    "token": " " // Twilio token
+  },
+  "message": {
+    "from": "+15555555", // phone number Twilio provides you with
+    "to": "+15555555", // phone number you want the message sent to
+    "body": "Cookies have arrived!" // message
+  }
+}
