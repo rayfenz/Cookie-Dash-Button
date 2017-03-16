@@ -3,7 +3,7 @@ A program that sends an SMS message and a Tweet when fresh cookies are delivered
 
 
 # Send an SMS message with your Dash Butotn
-Follow these <a href="https://github.com/sanzgiri/dash-sms">Dash SMS</a> to find your Dash Button's MAC address and set up the function to send an SMS message. You'll also need to set up a Twilio account for this.
+Follow these <a href="https://github.com/sanzgiri/dash-sms">Dash SMS</a> instructions to find your Dash Button's MAC address and set up the function to send an SMS message. You'll also need to set up a Twilio account for this.
 
 
 # Post a Tweet with your Dash Button
