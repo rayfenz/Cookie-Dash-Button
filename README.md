@@ -48,5 +48,5 @@ I added this tweetDelay of 1,200,000 milliseconds up underneath my Twitter crede
 var tweetDelay = 1200000; // how long of a delay you want, in milliseconds
 ```
 
-# Aknowledgements
+# Acknowledgements
 Ashutosh Sanzgiri (https://github.com/sanzgiri/dash-sms) - I grabbed a lot of this code to get started.
